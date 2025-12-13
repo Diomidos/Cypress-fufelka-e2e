@@ -6,11 +6,12 @@ cypress/downloads/
 .env       
 .env.local       
 .env.*.local  
-support/credentials.js 
-support/secretKey.js 
-support/fufelkaHelpers.js 
-cypress/loginHelper.js  
-cypress/setSecretKey.js 
+cypress/support/credentials.js 
+cypress/support/secretKey.js 
+cypress/support/fufelkaHelpers.js 
+cypress/support/loginHelper.js  
+cypress/support/setSecretKey.js 
+cypress/support/e2e.js
 cypress/fixtures/test-data.json
 .DS_Store
 Thumbs.db 
