@@ -1,0 +1,21 @@
+{
+  "name": "cypress_test_fufelka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:verify": "cypress verify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/uuid": "^10.0.0",
+    "cypress": "^13.17.0",
+    "uuid": "^9.0.1"
+  }
+}
