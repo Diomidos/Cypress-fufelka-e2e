@@ -5,13 +5,7 @@ cypress/videos/
 cypress/downloads/   
 .env       
 .env.local       
-.env.*.local  
-cypress/support/credentials.js 
-cypress/support/secretKey.js 
-cypress/support/fufelkaHelpers.js 
-cypress/support/loginHelper.js  
-cypress/support/setSecretKey.js 
-cypress/support/e2e.js
+.env.*.local
 cypress/fixtures/test-data.json
 .DS_Store
 Thumbs.db 
@@ -20,4 +14,6 @@ Thumbs.db
 .idea/
 *.swp 
 *.swo
-node_modules/ 
+node_modules/   
+code .gitignore
+cypress/support/
